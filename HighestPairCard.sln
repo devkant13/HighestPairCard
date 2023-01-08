@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HighestPairCard.Test", "HighestPairCard.Test\HighestPairCard.Test.csproj", "{3EE9780E-F0A4-4421-AA1D-6543F2C19600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestPairCard", "HighestPairCard\HighestPairCard.csproj", "{ABAAE97B-9B15-4A8E-8DCC-BD860919AFDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE9780E-F0A4-4421-AA1D-6543F2C19600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE9780E-F0A4-4421-AA1D-6543F2C19600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE9780E-F0A4-4421-AA1D-6543F2C19600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE9780E-F0A4-4421-AA1D-6543F2C19600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAAE97B-9B15-4A8E-8DCC-BD860919AFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAAE97B-9B15-4A8E-8DCC-BD860919AFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAAE97B-9B15-4A8E-8DCC-BD860919AFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAAE97B-9B15-4A8E-8DCC-BD860919AFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CD94F49-00FC-4B42-8A26-6D3E0D9EEB03}
+	EndGlobalSection
+EndGlobal
